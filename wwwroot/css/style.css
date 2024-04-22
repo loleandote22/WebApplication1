@@ -5598,6 +5598,8 @@ html [class*='section-'].section-bottom-0 {
 	}
 }
 
+
+
 .section-main-bunner .main-bunner-img {
 	position: absolute;
 	left: 0;
@@ -5664,7 +5666,10 @@ html [class*='section-'].section-bottom-0 {
 	bottom: 0;
 	right: 0;
 	content: '';
-	background: linear-gradient(360deg, rgba(18, 18, 18, 0.6) 0.91%, rgba(18, 18, 18, 0.28) 47.77%, rgba(39, 42, 55, 0.75) 99.52%);
+	/*background: linear-gradient(360deg, rgba(18, 18, 18, 0.6) 0.91%, rgba(18, 18, 18, 0.28) 47.77%, rgba(39, 42, 55, 0.75) 99.52%);*/
+	
+	background-image: url("~/images/banner/hot-peppers-banner-2.jpg");
+	background-size: cover;
 	z-index: 1;
 }
 
@@ -7385,6 +7390,7 @@ html.tablet .ui-to-top {
 	text-overflow: ellipsis;
 	text-align: left;
 	font-size: 22px;
+	background-color: #151515cc;
 }
 
 .rd-navbar-fixed .rd-navbar-brand img {

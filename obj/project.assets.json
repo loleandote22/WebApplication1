@@ -8,25 +8,28 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alfos\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\yo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\25.1.35\\ToolboxNuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\alfos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\yo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\25.1.35\\ToolboxNuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\alfos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

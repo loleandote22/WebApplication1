@@ -1,271 +1,451 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\css\\aboutus.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\css\\aboutus.css",
       "PackagePath": "staticwebassets\\css\\aboutus.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootsrap.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\css\\bootsrap.css",
       "PackagePath": "staticwebassets\\css\\bootsrap.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\css\\fonts.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\css\\fonts.css",
       "PackagePath": "staticwebassets\\css\\fonts.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\js\\core.min.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\_blank.png",
+      "PackagePath": "staticwebassets\\images\\_blank.png"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\aboutus\\header.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutus\\header.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\aboutus\\sobre-nosotros.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutus\\sobre-nosotros.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\banner\\hot-peppers-banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\hot-peppers-banner-2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\banner\\hot-peppers-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\hot-peppers-banner.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\carta\\carta-tacogos-hotdog-bebidas-pupusas-burritos-sandwitch-gos.jpeg",
+      "PackagePath": "staticwebassets\\images\\carta\\carta-tacogos-hotdog-bebidas-pupusas-burritos-sandwitch-gos.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\carta\\tacos-quesadillas-complementos-tacogos.jpeg",
+      "PackagePath": "staticwebassets\\images\\carta\\tacos-quesadillas-complementos-tacogos.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\contact\\letter.png",
+      "PackagePath": "staticwebassets\\images\\contact\\letter.png"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\drinks\\agua.jpg",
+      "PackagePath": "staticwebassets\\images\\drinks\\agua.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\drinks\\bebidas.jpg",
+      "PackagePath": "staticwebassets\\images\\drinks\\bebidas.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\drinks\\refrescos.jpg",
+      "PackagePath": "staticwebassets\\images\\drinks\\refrescos.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\Double_Smash_Burger.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\Double_Smash_Burger.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\Simply-Recipes-Pupusas.webp",
+      "PackagePath": "staticwebassets\\images\\food\\Simply-Recipes-Pupusas.webp"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\burrito.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\burrito.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\burrito.png",
+      "PackagePath": "staticwebassets\\images\\food\\burrito.png"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\nachos.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\nachos.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\nachos_food_mexican_food.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\nachos_food_mexican_food.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\perritotacogos.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\perritotacogos.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\pupusas.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\pupusas.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\quesadilla-pastor.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\quesadilla-pastor.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\quesadillas-salsas.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\quesadillas-salsas.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\quesadillas.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\quesadillas.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\taco-pivil.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\taco-pivil.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\tacobirria.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\tacobirria.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\tacogos.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\tacogos.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\tacos-salsas.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\tacos-salsas.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\tacos-tacogos-salsas-up.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\tacos-tacogos-salsas-up.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\tipos-tacos-salsas.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\tipos-tacos-salsas.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\top-tacos.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\top-tacos.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\up-tacos.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\up-tacos.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\food\\variedad-tacos-tacogos-salsas.jpeg",
+      "PackagePath": "staticwebassets\\images\\food\\variedad-tacos-tacogos-salsas.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\fork.jpg",
+      "PackagePath": "staticwebassets\\images\\fork.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\gmap_marker.png",
+      "PackagePath": "staticwebassets\\images\\gmap_marker.png"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\gmap_marker_active.png",
+      "PackagePath": "staticwebassets\\images\\gmap_marker_active.png"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\logo\\big-oh-tacogos-logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\big-oh-tacogos-logo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\logo\\big-tacogos-logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\big-tacogos-logo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\logo\\mid-tacogos-logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\mid-tacogos-logo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\logo\\small-tacogos-logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\small-tacogos-logo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\opinion\\alvaro.png",
+      "PackagePath": "staticwebassets\\images\\opinion\\alvaro.png"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\opinion\\joseL.png",
+      "PackagePath": "staticwebassets\\images\\opinion\\joseL.png"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\opinion\\katherin.png",
+      "PackagePath": "staticwebassets\\images\\opinion\\katherin.png"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\opinion\\maria.png",
+      "PackagePath": "staticwebassets\\images\\opinion\\maria.png"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\images\\preloader.gif",
+      "PackagePath": "staticwebassets\\images\\preloader.gif"
+    },
+    {
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\js\\core.min.js",
       "PackagePath": "staticwebassets\\js\\core.min.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\js\\script.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\alfos\\Desktop\\prueva\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "c:\\Users\\yo\\Desktop\\git\\Projecto-IKREA\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

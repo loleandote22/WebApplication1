@@ -1,24 +1,23 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="es"> 
   <head>
     <title>Home-Tacogos</title>
-    <meta charset="utf-8">
+     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:300,300i,400,500,600,700,800,900,900i%7CPT+Serif:400,700">
+    <link rel="stylesheet" type="~/text/css" href="//fonts.googleapis.com/css?family=Poppins:300,300i,400,500,600,700,800,900,900i%7CPT+Serif:400,700">
     <link rel="stylesheet" href="~/css/bootstrap.css">
     <link rel="stylesheet" href="~/css/fonts.css">
     <link rel="stylesheet" href="~/css/style.css">
-    <link rel="stylesheet" href="~/css/aboutus.css">
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
   </head>
   <body>
-    <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
+    <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="~/images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <div class="preloader">
       <div class="preloader-body">
         <div class="cssload-container">
@@ -28,49 +27,14 @@
       </div>
     </div>
     <div class="page">
-      <!-- Page Header-->
-      <header class="section page-header">
-        <!-- RD Navbar-->
-        <div class="rd-navbar-wrap">
-          <nav class="rd-navbar rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
-            <div class="rd-navbar-main-outer">
-              <div class="rd-navbar-main">
-                <!-- RD Navbar Panel-->
-                <div class="rd-navbar-panel"> 
-                  <!-- RD Navbar Toggle-->
-                  <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-                  <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a href="index.html"><img class="brand-logo-light" src="images/logo/mid-tacogos-logo.jpg" alt="tacogoslogo" width="140" height="57" srcset="images/logo/small-tacogos-logo.jpg 2x"/></a></div>
-                </div>
-                <div class="rd-navbar-main-element">
-                  <div class="rd-navbar-nav-wrap">
-                    <!-- RD Navbar Nav-->
-                    <ul class="rd-navbar-nav">
-                      <!-- Main page -->
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a></li>
-                      <!--  Catalog of food's tacogos -->
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="menu.html">Carta</a></li>
-                      <!-- About tacogos -->
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="about-us.html">Sobre nosotros</a></li>
-                      <!-- Contact with tacogos -->
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.html">Contacto</a></li>
-                    </ul>
-                    <!-- Intranet - inventory -->
-                    <a class="button button-white button-sm" href="#">Zona trabajador</a>
-                  </div>
-                </div><a class="button button-white button-sm" href="#">Zona trabajador</a>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </header>
+      
       <!-- Swiper-->
       <section class="section section-lg section-main-bunner section-main-bunner-filter text-center">
         <div class="main-bunner-img" style="background-image: url(&quot;images/banner/hot-peppers-banner-2.jpg&quot;); background-size: cover;"></div>
-        <div class="main-bunner-inner">
+        <div class="main-bunner-inner" >
           <div class="container">
             <div class="box-default">
-              <h1 class="box-default-title">"Hola Tacoguero"</h1>
+              <h1 class="box-default-title">Hola Tacoguer@@!</h1>
               <div class="box-default-decor"></div>
               <p class="big box-default-text">
                 ¡Delicias para todos los gustos! <br>
@@ -81,8 +45,6 @@
         </div>
       </section>
       <div class="bg-gray-1">
-        
-
         <section class="section-transform-top">
           <div class="container">
             <div class="box-booking">
@@ -107,7 +69,7 @@
           <div class="container">
             <div class="row row-50 justify-content-xl-between align-items-lg-center">
               <div class="col-lg-6 wow fadeInLeft">
-                <div class="box-image"><img class="box-image-static" src="images/logo/big-oh-tacogos-logo.jpg" alt="tacogos" width="463" height="327"/>
+                <div class="box-image"><img class="box-image-static" src="~/images/logo/big-oh-tacogos-logo.jpg" alt="tacogos" width="463" height="327"/>
                 </div>
               </div>
               <div class="col-lg-6 col-xl-5 wow fadeInRight">
@@ -157,7 +119,7 @@
             <div class="col-md-6 col-lg-4 wow-outer">
               <div class="wow fadeInUp">
                 <div class="product-featured">
-                  <div class="product-featured-figure"><img src="images/food/variedad-tacos-tacogos-salsas.jpeg" alt="" />
+                  <div class="product-featured-figure"><img src="~/images/food/variedad-tacos-tacogos-salsas.jpeg" alt="" />
                     <div class="product-featured-button"><a class="button button-primary" href="#">order now</a></div>
                   </div>
                   <div class="product-featured-caption">
@@ -170,7 +132,7 @@
             <div class="col-md-6 col-lg-4 wow-outer">
               <div class="wow fadeInUp">
                 <div class="product-featured">
-                  <div class="product-featured-figure"><img src="images/food/Simply-Recipes-Pupusas.webp" alt="" />
+                  <div class="product-featured-figure"><img src="~/images/food/Simply-Recipes-Pupusas.webp" alt="" />
                     <div class="product-featured-button"><a class="button button-primary" href="#">order now</a></div>
                   </div>
                   <div class="product-featured-caption">
@@ -183,7 +145,7 @@
             <div class="col-md-6 col-lg-4 wow-outer">
               <div class="wow fadeInUp">
                 <div class="product-featured">
-                  <div class="product-featured-figure"><img src="images/food/perritotacogos.jpeg" alt="" />
+                  <div class="product-featured-figure"><img src="~/images/food/perritotacogos.jpeg" alt="" />
                     <div class="product-featured-button"><a class="button button-primary" href="#">order now</a></div>
                   </div>
                   <div class="product-featured-caption">
@@ -196,7 +158,7 @@
             <div class="col-md-6 col-lg-4 wow-outer">
               <div class="wow fadeInUp">
                 <div class="product-featured">
-                  <div class="product-featured-figure"><img src="images/food/tacobirria.jpeg" alt="" />
+                  <div class="product-featured-figure"><img src="~/images/food/tacobirria.jpeg" alt="" />
                     <div class="product-featured-button"><a class="button button-primary" href="#">order now</a></div>
                   </div>
                   <div class="product-featured-caption">
@@ -612,43 +574,43 @@
               <div class="row no-gutters row-condensed">
                 <div class="col-12 col-md-4 isotope-item wow-outer" data-filter="Category 3">
                   <div class="wow slideInDown">
-                    <div class="gallery-item-classic"><img src="images/food/tacogos.jpeg" alt=""/>
-                      <div class="gallery-item-classic-caption"><a href="images/food/tacogos.jpeg" data-lightgallery="item">zoom</a></div>
+                    <div class="gallery-item-classic"><img src="~/images/food/tacogos.jpeg" alt=""/>
+                      <div class="gallery-item-classic-caption"><a href="~/images/food/tacogos.jpeg" data-lightgallery="item">zoom</a></div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 isotope-item wow-outer" data-filter="*">
                   <div class="wow slideInDown">
-                    <div class="gallery-item-classic"><img src="images/food/nachos.jpeg" alt=""/>
-                      <div class="gallery-item-classic-caption"><a href="images/food/nachos.jpeg" data-lightgallery="item">zoom</a></div>
+                    <div class="gallery-item-classic"><img src="~/images/food/nachos.jpeg" alt=""/>
+                      <div class="gallery-item-classic-caption"><a href="~/images/food/nachos.jpeg" data-lightgallery="item">zoom</a></div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 isotope-item wow-outer" data-filter="Category 3">
                   <div class="wow slideInDown">
-                    <div class="gallery-item-classic"><img src="images/food/quesadillas-salsas.jpeg" alt=""/>
-                      <div class="gallery-item-classic-caption"><a href="images/food/quesadillas-salsas.jpeg" data-lightgallery="item">zoom</a></div>
+                    <div class="gallery-item-classic"><img src="food/quesadillas-salsas.jpeg" alt=""/>
+                      <div class="gallery-item-classic-caption"><a href="~/images/food/quesadillas-salsas.jpeg" data-lightgallery="item">zoom</a></div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-4 isotope-item wow-outer" data-filter="Category 3">
                   <div class="wow fadeInUp">
-                    <div class="gallery-item-classic"><img src="images/drinks/bebidas.jpg" alt=""/>
-                      <div class="gallery-item-classic-caption"><a href="images/drinks/bebidas.jpg" data-lightgallery="item">zoom</a></div>
+                    <div class="gallery-item-classic"><img src="~/images/drinks/bebidas.jpg" alt=""/>
+                      <div class="gallery-item-classic-caption"><a href="~/images/drinks/bebidas.jpg" data-lightgallery="item">zoom</a></div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-4 isotope-item wow-outer" data-filter="Category 3">
                   <div class="wow fadeInUp">
-                    <div class="gallery-item-classic"><img src="images/food/Double_Smash_Burger.jpg" alt=""/>
-                      <div class="gallery-item-classic-caption"><a href="images/food/Double_Smash_Burger.jpg" data-lightgallery="item">zoom</a></div>
+                    <div class="gallery-item-classic"><img src="~/images/food/Double_Smash_Burger.jpg" alt=""/>
+                      <div class="gallery-item-classic-caption"><a href="~/images/food/Double_Smash_Burger.jpg" data-lightgallery="item">zoom</a></div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-4 isotope-item wow-outer" data-filter="Category 2">
                   <div class="wow fadeInUp">
-                    <div class="gallery-item-classic"><img src="images/drinks/refrescos.jpg" alt=""/>
-                      <div class="gallery-item-classic-caption"><a href="images/drinks/refrescos.jpg" data-lightgallery="item">zoom</a></div>
+                    <div class="gallery-item-classic"><img src="~/images/drinks/refrescos.jpg" alt=""/>
+                      <div class="gallery-item-classic-caption"><a href="~/images/drinks/refrescos.jpg" data-lightgallery="item">zoom</a></div>
                     </div>
                   </div>
                 </div>
@@ -664,107 +626,12 @@
           <p>
             <strong><i>Próximamente...</i></strong>
           </p>
-          <!--  PTE DE DESARROLLAR
-          <div class="owl-carousel wow fadeInUp" data-items="1" data-md-items="2" data-lg-items="3" data-dots="true" data-nav="false" data-stage-padding="15" data-loop="false" data-margin="30" data-mouse-drag="false">
-            <div class="post-corporate"><a class="badge" href="#">Jul 02, 2019</a>
-              <h4 class="post-corporate-title"><a href="#">Genuine Italian Pizza: Authenticity and Choice</a></h4>
-              <div class="post-corporate-text">
-                <p>As an Italian restaurant, we are very proud of our delicious authentic pizzas. Our three most popular choices are the Rustica, the Toscana and...</p>
-              </div><a class="post-corporate-link" href="#">Read more<span class="icon linearicons-arrow-right"></span></a>
-            </div>
-            <div class="post-corporate"><a class="badge" href="#">Jul 12, 2019</a>
-              <h4 class="post-corporate-title"><a href="#">Italian vs. American Spaghetti: Top 5 Differences</a></h4>
-              <div class="post-corporate-text">
-                <p>Commonly, when we hear there is spaghetti for dinner we will be expecting a red tomato sauce with meat and seasonings poured over long...</p>
-              </div><a class="post-corporate-link" href="#">Read more<span class="icon linearicons-arrow-right"></span></a>
-            </div>
-            <div class="post-corporate"><a class="badge" href="#">aug 02, 2019</a>
-              <h4 class="post-corporate-title"><a href="#">The Delicious History of Lasagna and Its Origins</a></h4>
-              <div class="post-corporate-text">
-                <p>Lasagna, could there be a more perfect dish? It’s comfort food on steroids. Layers of cheese generously piled on top of decadent amounts...</p>
-              </div><a class="post-corporate-link" href="#">Read more<span class="icon linearicons-arrow-right"></span></a>
-            </div>
-            <div class="post-corporate"><a class="badge" href="#">Aug 15, 2019</a>
-              <h4 class="post-corporate-title"><a href="#">Making Gelato Like a True Italian: Tips From Our Chef</a></h4>
-              <div class="post-corporate-text">
-                <p>Most would agree that gelato is the most delicious frozen dessert; the perfect ending to any meal. With origins in Sicily, gelato has been made famous...</p>
-              </div><a class="post-corporate-link" href="#">Read more<span class="icon linearicons-arrow-right"></span></a>
-            </div>
-            <div class="post-corporate"><a class="badge" href="#">Sep 15, 2019</a>
-              <h4 class="post-corporate-title"><a href="#">Italian Ingredients You Can Easily Grow at Home</a></h4>
-              <div class="post-corporate-text">
-                <p>Imagine preparing an Italian dinner but having to stop cooking because you forget an ingredient and must run to the store. How nice would it be to go...</p>
-              </div><a class="post-corporate-link" href="#">Read more<span class="icon linearicons-arrow-right"></span></a>
-            </div>
-            <div class="post-corporate"><a class="badge" href="#">Sep 28, 2019</a>
-              <h4 class="post-corporate-title"><a href="#">Our Brief Guide to Pairing Wine and Pasta the Right Way</a></h4>
-              <div class="post-corporate-text">
-                <p>To Italians, pasta is the food of the gods, and there is nothing better to go with a good pasta than a perfect wine. To the uninitiated, finding the right...</p>
-              </div><a class="post-corporate-link" href="#">Read more<span class="icon linearicons-arrow-right"></span></a>
-            </div>
-            <div class="post-corporate"><a class="badge" href="#">Oct 05, 2019</a>
-              <h4 class="post-corporate-title"><a href="#">Top 10 Famous Spring Dishes in Italian Restaurants</a></h4>
-              <div class="post-corporate-text">
-                <p>Spring is the time for growth and rebirth. One can see this throughout the countrysides of Italy with blooming flowers and budding trees. Springtime is...</p>
-              </div><a class="post-corporate-link" href="#">Read more<span class="icon linearicons-arrow-right"></span></a>
-            </div>
-            <div class="post-corporate"><a class="badge" href="#">Oct 17, 2019</a>
-              <h4 class="post-corporate-title"><a href="#">What Makes Some Seasonings Truly Italian?</a></h4>
-              <div class="post-corporate-text">
-                <p>When thinking of Italian cuisine, dishes like pasta enveloped in hearty sauces come to mind. Certain flavors seem to be found across the different...</p>
-              </div><a class="post-corporate-link" href="#">Read more<span class="icon linearicons-arrow-right"></span></a>
-            </div>
-            <div class="post-corporate"><a class="badge" href="#">Nov 10, 2019</a>
-              <h4 class="post-corporate-title"><a href="#">Types of Italian Sausage and Why They Are Different</a></h4>
-              <div class="post-corporate-text">
-                <p>There are many types of Italian sausage. The main difference in Italian sausage when compared to other sausages is the seasoning. The particular...</p>
-              </div><a class="post-corporate-link" href="#">Read more<span class="icon linearicons-arrow-right"></span></a>
-            </div>
-          </div>
-          -->
         </div>
       </section>
-      <!-- Page Footer-->
-      <footer class="section footer-minimal context-dark">
-        <div class="container wow-outer">
-          <div class="wow fadeIn">
-            <div class="row row-60">
-              <div class="col-12"><a href="index.html"><img src="images/logo/mid-tacogos-logo.jpg" alt="" width="140" height="57" srcset="images/logo/big-oh-tacogos-logo.jpg 2x"/></a></div>
-              <div class="col-12">
-                <ul class="footer-minimal-nav">
-                  <li><a href="menu.html">Carta</a></li>
-                  <li><a href="#">Blog</a></li>
-                  <li><a href="contacts.html">Contacto</a></li>
-                  <li><a href="#">Galería</a></li>
-                  <li><a href="about-us.html">Sobre nosotros</a></li>
-                </ul>
-              </div>
-              <div class="col-12">
-                <ul class="social-list">
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="#"></a></li>
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="#"></a></li>
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="#"></a></li>
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-youtube-play" href="#"></a></li>
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-pinterest-p" href="#"></a></li>
-                </ul>
-              </div>
-            </div>
-            <p class="rights">
-              <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Tacogos</span><span>.&nbsp;</span><span>All Rights Reserved.</span> |  
-                Design&nbsp;based in&nbsp;<a href="https://www.templatemonster.com">Templatemonster</a></p>
-              <a href="terminos-y-condiciones.html" target="_blank" rel="noopener noreferrer">Terminos y condiciones</a></li> |
-              <a href="politicas-de-privacidad.html" target="_blank" rel="noopener noreferrer">Políticas de privacidad</a></li>
-            </p>
-          </div>
-        </div>
-      </footer>
+      
     </div>
     <div class="snackbars" id="form-output-global"></div>
     <script src="~/js/core.min.js"></script>
     <script src="~/js/script.js"></script>
   </body>
 </html>
-<!--
-  Imagen de <a href="https://pixabay.com/es/users/noname_13-2364555/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1565025">NoName_13</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1565025">Pixabay</a> 
-  Imagen de <a href="https://pixabay.com/es/users/sponchia-443272/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=558805">Christine Sponchia</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=558805">Pixabay</a>
--->

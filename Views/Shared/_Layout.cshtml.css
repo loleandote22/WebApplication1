@@ -38,7 +38,10 @@ button.accept-policy {
   font-size: 1rem;
   line-height: inherit;
 }
-
+.header {
+  position: absolute;
+  background-color: #151515cc;
+}
 .footer {
   position: absolute;
   bottom: 0;

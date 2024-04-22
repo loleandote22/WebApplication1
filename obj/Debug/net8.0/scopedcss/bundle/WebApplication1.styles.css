@@ -39,7 +39,10 @@ button.accept-policy[b-bddmc6yalx] {
   font-size: 1rem;
   line-height: inherit;
 }
-
+.header[b-bddmc6yalx] {
+  position: absolute;
+  background-color: #151515cc;
+}
 .footer[b-bddmc6yalx] {
   position: absolute;
   bottom: 0;
